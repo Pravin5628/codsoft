@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    font-family: 'Segoe UI', sans-serif;
+    background: #f4f6f9;
+    color: #333;
+    text-align: center;
+}
+
+header {
+    background: #0f172a;
+    color: white;
+    padding: 50px 20px;
+}
+
+section {
+    padding: 50px 20px;
+    max-width: 900px;
+    margin: auto;
+}
+
+.skills ul {
+    list-style: none;
+    padding: 0;
+}
+
+.skills li {
+    display: inline-block;
+    background: #0f172a;
+    color: white;
+    padding: 10px 20px;
+    margin: 8px;
+    border-radius: 20px;
+}
+
+footer {
+    background: #0f172a;
+    color: white;
+    padding: 20px;
+}
